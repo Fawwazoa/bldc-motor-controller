@@ -49,7 +49,8 @@ This project implements a **3-phase BLDC motor controller** using Hall sensor-ba
 
 ## 🛡️ Licensing
 
-* **CERN Open Hardware License v2** 
+This hardware project is licensed under the **CERN Open Hardware License v2 (CERN OHL v2)**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
