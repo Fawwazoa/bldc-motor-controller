@@ -70,7 +70,7 @@ This project implements a **3-phase BLDC motor controller** using Hall sensor-ba
 ## 📫 Contact
 
 If you have suggestions or questions feel free to contact.
-- 📧 Email: fawazyousifabkr@gmail.com
+- 📧 Email: fawazyousifabkr00@gmail.com
 - 🛠 [My Hackaday Profile](https://hackaday.io/Fawwazoa)
 
 
