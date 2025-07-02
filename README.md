@@ -1,5 +1,5 @@
 ![PCB Layout of 3-Phase BLDC Controller](Hardware/3DView1.png)
-# 🚀 3-Phase BLDC Motor Controller
+# 3-Phase BLDC Motor Controller (ESC)
 
 Open Hardware & Firmware for a **Hall-sensor-based 6-step BLDC motor controller** using **PIC18F**.
 
